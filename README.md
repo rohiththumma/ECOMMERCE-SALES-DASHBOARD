@@ -1,48 +1,37 @@
-E-Commerce Sales Dashboard
-Overview
-This Power BI dashboard provides a comprehensive analysis of e-commerce sales data, showcasing key metrics, trends, and insights to help understand business performance.
+📊 E-Commerce Sales Dashboard | Power BI
+🔍 Overview
+A Power BI dashboard analyzing e-commerce sales data with interactive visualizations to track revenue, profit, quantity sold, and customer trends.
 
-Features
-Key Metrics: Total amount, profit, quantity, and average order value (AOV)
+📌 Key Features
+✅ Total Sales & Profit Metrics
+✅ State-wise Sales Distribution
+✅ Category & Sub-Category Breakdown
+✅ Payment Mode Analysis
+✅ Monthly Profit Trends
+✅ Top Customers by Sales
 
-Geographical Analysis: Sales distribution by state
+🛠️ Technologies Used
+Microsoft Power BI (Dashboard & Visualizations)
+DAX (Data Analysis Expressions) (Calculations & Metrics)
+Power Query (Data Cleaning & Transformation)
+CSV Data Integration
 
-Category Breakdown: Quantity sold by product category
+📂 Data Sources
+Orders.csv → Order details (Customer, Location, Date)
+Details.csv → Transaction details (Amount, Profit, Quantity, Category)
 
-Payment Mode Analysis: Transaction distribution by payment method
+📊 Insights
+📍 Maharashtra leads in sales volume
+👕 Clothing dominates (63% of total quantity sold)
+💳 EMI is the most popular payment method
+📉 Seasonal profit fluctuations observed
 
-Profit Trends: Monthly profit performance
+🚀 How to Use
+1️⃣ Clone the repo
+2️⃣ Open the Power BI file (.pbix)
+3️⃣ Connect to the CSV data sources
+4️⃣ Refresh to view updated visualizations
 
-Customer Insights: Top customers by sales amount
 
-Sub-Category Performance: Profit analysis by product sub-category
-
-Data Sources
-Orders.csv: Contains order details including customer information and location
-
-Details.csv: Contains transaction details including amounts, quantities, and categories
-
-Technologies Used
-Microsoft Power BI
-
-DAX (Data Analysis Expressions)
-
-Power Query for data transformation
-
-How to Use
-Clone this repository
-
-Open the Power BI file (not included in this repository)
-
-Connect to the provided CSV data sources
-
-Refresh the dashboard to view the latest visualizations
-
-Insights
-Maharashtra leads in sales volume among states
-
-Clothing accounts for 63% of total quantity sold
-
-EMI payments represent the largest payment method segment
-
-Monthly profit trends show seasonal fluctuations
+🔖 Tags
+#PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #Ecommerce #Dashboard #SalesAnalysis #DAX #DataCleaning #DataDriven #BI #Analytics #Tech #DataScience #Visualization #BusinessAnalytics
